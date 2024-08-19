@@ -1,9 +1,17 @@
 
-Original file line number 	Diff line number 	Diff line change
-@@ -4,14 +4,14 @@
-Welcome to Eat-n-Split, a handy React application that simplifies splitting bills with your friends, making your outings stress-free!
+
 ## Eat-n-Split
--- 
+- React app to split bills with your friends easily and find out "Who owes whom and how much?
+
+## Featuers
+- **Split Bills Effortlessly:** No more hassle when it comes to splitting the bill. Eat-n-Split makes it easy and quick to divide expenses among friends.
+- **Built with React:** This application is developed using React, ensuring a seamless and interactive user interface.
+- **Utilizes React State and Hooks:** With the power of React state and hooks, Eat-n-Split efficiently manages and updates data in real-time.
+- **Responsive CSS and Grids:** The user interface is crafted with responsive CSS and grids, providing a visually appealing experience across various devices.
+- **Add Multiple Friends:** Whether it's a small gathering or a large party, you can add as many friends as you need to split the bill accurately.
+- **Random Profile Pictures:** Eat-n-Split uses an external API to generate random profile pictures for your friends, adding a touch of fun to the app.
+- **Clear Debts Overview:** Always stay informed about how much you owe your friends and how much they owe you, ensuring everyone settles their dues without confusion.
+ 
 ## Screenshot
 
 **Image 1: Landing Page**:
@@ -20,14 +28,6 @@ Welcome to Eat-n-Split, a handy React application that simplifies splitting bill
 ![image](https://github.com/anshumansinha18/Eat-N-Split/assets/39727166/b21eef36-ac93-4f42-8e57-df6dc4630503)
 
 
-## Featuers
-- **Split Bills Effortlessly:** No more hassle when it comes to splitting the bill. Eat-n-Split makes it easy and quick to divide expenses among friends.
-- **Built with React:** This application is developed using React, ensuring a seamless and interactive user interface.
-- **Utilizes React State and Hooks:** With the power of React state and hooks, Eat-n-Split efficiently manages and updates data in real-time.
-- **Responsive CSS and Grids:** The user interface is crafted with responsive CSS and grids, providing a visually appealing experience across various devices.
-- **Add Multiple Friends:** Whether it's a small gathering or a large party, you can add as many friends as you need to split the bill accurately.
-- **Random Profile Pictures:** Eat-n-Split uses an external API to generate random profile pictures for your friends, adding a touch of fun to the app.
-- **Clear Debts Overview:** Always stay informed about how much you owe your friends and how much they owe you, ensuring everyone settles their dues without confusion.
 ##  How to Use
 - **Add Friends:** Start by adding your friends to the application. Click on the "Add Friend" button, and a random profile picture will be assigned automatically.
 - **Enter Expenses:** Input the expenses incurred during your outing. You can add individual expenses for each friend or split the bill equally among all.
