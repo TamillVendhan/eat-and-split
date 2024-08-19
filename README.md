@@ -2,7 +2,8 @@
 Original file line number 	Diff line number 	Diff line change
 @@ -4,14 +4,14 @@
 Welcome to Eat-n-Split, a handy React application that simplifies splitting bills with your friends, making your outings stress-free!
-
+## Eat-n-Split
+-- 
 ## Screenshot
 
 **Image 1: Landing Page**:
