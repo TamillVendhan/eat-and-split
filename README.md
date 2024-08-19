@@ -1,70 +1,43 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Original file line number 	Diff line number 	Diff line change
+@@ -4,14 +4,14 @@
+Welcome to Eat-n-Split, a handy React application that simplifies splitting bills with your friends, making your outings stress-free!
 
-## Available Scripts
+## Screenshot
 
-In the project directory, you can run:
+**Image 1: Landing Page**:
+![image](https://github.com/anshumansinha18/Eat-N-Split/assets/39727166/3ac3ec6a-a22b-4df3-9e7d-a8c03666b8e1)
+**Image 1: Landing Page**
 
-### `npm start`
+**Image 2: Splitting Bill**:
+![image](https://github.com/anshumansinha18/Eat-N-Split/assets/39727166/752e0c3a-0a89-4470-8119-2a21d3e1eed2)
+**Image 2: Splitting Bill**
+![image](https://github.com/anshumansinha18/Eat-N-Split/assets/39727166/b21eef36-ac93-4f42-8e57-df6dc4630503)
+**Image 3: Add Friend**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Image 3: Add Friend**:
+![image](https://github.com/anshumansinha18/Eat-N-Split/assets/39727166/b21eef36-ac93-4f42-8e57-df6dc4630503)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Featuers
+- **Split Bills Effortlessly:** No more hassle when it comes to splitting the bill. Eat-n-Split makes it easy and quick to divide expenses among friends.
+- **Built with React:** This application is developed using React, ensuring a seamless and interactive user interface.
+- **Utilizes React State and Hooks:** With the power of React state and hooks, Eat-n-Split efficiently manages and updates data in real-time.
+- **Responsive CSS and Grids:** The user interface is crafted with responsive CSS and grids, providing a visually appealing experience across various devices.
+- **Add Multiple Friends:** Whether it's a small gathering or a large party, you can add as many friends as you need to split the bill accurately.
+- **Random Profile Pictures:** Eat-n-Split uses an external API to generate random profile pictures for your friends, adding a touch of fun to the app.
+- **Clear Debts Overview:** Always stay informed about how much you owe your friends and how much they owe you, ensuring everyone settles their dues without confusion.
+##  How to Use
+- **Add Friends:** Start by adding your friends to the application. Click on the "Add Friend" button, and a random profile picture will be assigned automatically.
+- **Enter Expenses:** Input the expenses incurred during your outing. You can add individual expenses for each friend or split the bill equally among all.
+- **Check Debt Summary:** The application will automatically calculate how much each person owes or is owed. Easily view the debt summary for a clear understanding.
+- **Settle Payments:** Based on the debt summary, handle the payments accordingly, ensuring everyone settles up correctly.
+## Installation
+1. Clone this repository to your local machine.
+2. Navigate to the project directory and run `npm install` to install all the required dependencies.
+3. Launch the application with `npm start`, and it will open in your default web browser.
+## Styling
+To customize the styling of the component, you can define CSS classes and use them with the className prop. Here is an example of how you can define styles in your styles.css file:
+0 comments on commit d276eaa
+@TamillVendhan
+Comment
